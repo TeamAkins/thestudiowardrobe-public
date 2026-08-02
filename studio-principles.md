@@ -1,10 +1,3 @@
----
-
-layout: default
-title: Studio Principles
-permalink: /studio-principles/
-------------------------------
-
 # Studio Principles
 
 At The Studio, we believe the spaces we create—both physical and digital—shape the way we feel.
